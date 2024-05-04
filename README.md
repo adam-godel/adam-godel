@@ -1,7 +1,7 @@
 ### Hello there!
 My name is **Adam Godel** and I am a first-year student studying mathematics and computer science at Boston University. While I am interested in a multitude of CS topics, my recent research interest has been quantum computing. This year, I began doing quantum computing research by working on a handful of research projects for different quantum computing companies.
 
-You can access my personal website here: https://adam-godel.github.io/
+You can access my personal website here: https://adamgodel.me/
 
 ### My Skills
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,react,julia,c,vscode,vim,bash&theme=light)](#)
