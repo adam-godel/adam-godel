@@ -1,5 +1,5 @@
 ### Hello there!
-My name is **Adam Godel** and I am a first-year student studying mathematics and computer science at Boston University. While I am interested in a multitude of CS topics, my recent research interest has been quantum computing. This year, I began doing quantum computing research by working on a handful of research projects for different quantum computing companies.
+My name is **Adam Godel** and I am a first-year student studying mathematics and computer science at Boston University. While I am interested in a multitude of CS topics, my main research interest is quantum computing. I have begun to focus on quantum computing by working on a handful of research projects for different companies. I am also interested in web development and have significant experience using React.
 
 You can access my personal website here: https://adamgodel.me/
 
