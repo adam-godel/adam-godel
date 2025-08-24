@@ -1,9 +1,9 @@
 ### Hello there!
-My name is **Adam Godel** and I am a sophomore student studying mathematics and computer science at Boston University. While I am interested in a multitude of topics within my major, my main interests are quantum computing and web development. I have worked on a handful of research projects for quantum computing companies as well as web projects for nonprofits. 
+My name is **Adam Godel** and I am a junior student studying mathematics and computer science at Boston University. While I am interested in a multitude of topics within my major, my main interests are quantum computing and web development. I have worked on a handful of research projects for quantum computing companies as well as web projects for nonprofits. 
 
 You can view all of my programming projects below; in particular, check out the [Glued Trees](https://github.com/adam-godel/glued-trees) research project for Classiq and the [CGSA Website](https://github.com/Hack4Impact-BU/cgsa-website) project for BU Hack4Impact.
 
-You can access my personal website here: https://adamgodel.me/
+You can access my personal website here: [adamgodel.me](https://adamgodel.me/)
 
 ### My Skills
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,js,ts,react,nodejs,html,css,rust,c,julia,matlab,bash&theme=light)](#)
