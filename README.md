@@ -32,7 +32,3 @@
     </td>
   </tr>
 </table>
-
-```
-$ npx adam-godel
-```
