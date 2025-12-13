@@ -33,8 +33,10 @@
   </tr>
 </table>
 
+### Hey, I'm Adam.
+
 I am a junior undergraduate studying mathematics and computer science at Boston University. While I am interested in a multitude of topics within my major, my main interest is quantum computing. I have worked on a handful of research projects for quantum computing companies as well as web projects for nonprofits.
 
 ```
-npx adam-godel
+$ npx adam-godel
 ```
